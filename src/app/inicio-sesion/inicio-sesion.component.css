@@ -1,0 +1,141 @@
+
+.container{
+    background: rgba(232, 20, 20, 0.67);
+    height: 1000px;
+    width: 100%;
+}
+.section button{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    
+    border-radius: 40px;
+    box-sizing: border-box;
+    height: 50px;
+    background: #ffffff;
+}
+img{
+    
+    margin: 0 auto;
+    display: block;
+    margin-top: 10%;
+    height: 168.506px; 
+    width: 238.425px; 
+}
+.button{
+    margin-top: 25%;
+}
+/*
+.section{
+    margin: 0 auto;
+
+    width: 25%;
+}
+.section button{
+    width: 100%;
+    margin-top: 10%;
+    border-radius: 40px;
+    box-sizing: border-box;
+    height: 50px;
+    background: #ffffff;
+}
+img{
+    margin-top: 20%;
+    margin-left: 25%;
+    height: 168.506px; 
+    width: 238.425px; 
+}
+@media screen and (max-width: 800px)
+{
+    .section{
+        width: 100%;
+    }
+    .section button{
+        width: 60%;
+        margin-left: 20%;
+    }
+    img{
+        margin: 0 auto;
+        display: block;
+    height: 168.506px; 
+    width: 238.425px; 
+    }
+}
+
+
+
+
+
+.contenedor{
+background: rgba(232, 20, 20, 0.67);
+display: flex;
+width: 100%;
+height: 1000px;
+}
+.section{
+    margin: auto;
+    width: 20%;
+    height: 100%;
+   
+}
+img{
+    margin-left: 20%;
+    height: 168.506px; 
+    width: 238.425px; 
+}
+button {
+    background: rgba(255, 255, 255, 1);
+    margin-top: 10%;
+    height: 5%; 
+    width: 100%;
+    border-radius: 40px;
+}
+#imagen{
+    height: 250px;
+}
+@media screen and (max-width: 800px)
+{
+    button{
+        text-align: center;
+        width: 100%;
+        background: pink;
+    }
+}
+*/
+/*
+ .contenedor{
+     background: rgba(232, 20, 20, 0.67);
+     width: 100%;
+     margin: 0 auto;
+     overflow: hidden;
+     height: 1000px;
+    display: flex;
+    min-height: 100vh;
+
+ }
+ img{
+     padding-left: 35%;
+     width: 30%;
+     height: 20%;
+  
+     
+ }
+ 
+ #botones{
+     width: 40%;
+    margin-left: 25%;
+    height: 45%;
+    padding: 25px;
+    border-radius: 40px;
+ }
+ <div class="contenedor">
+  <form action="">
+  <img width="300"  alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+   <div id="botones">
+     <p><button >Iniciar Sesion</button></p>
+     <p><button>Registrarse</button></p>
+   </div>
+ 
+      </form>
+</div>
+*/

@@ -1,0 +1,122 @@
+    .container{
+    background: rgba(232, 20, 20, 0.67);
+     width: 100%;
+     height: 1000px;
+}
+
+
+.tomato{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: 168.506px; 
+    width: 238.425px; 
+    box-sizing: border-box;
+    margin-top: 6%;
+    margin-bottom: 10%;
+    
+}
+button {
+    margin-left: 20.11%;
+    background: #ffffff;
+    color: #000000;
+    margin-top:2%;
+    width: 60%;
+    height: 40px;
+    box-sizing: border-box;
+    border-radius: 40px;
+    text-align: left;
+}
+.imagen{
+    
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-left: 5%;
+    
+    
+}
+p{
+    color: #ffffff;
+    font-size: 100%;
+    text-align: center;
+    padding-top: 10%;
+}
+
+/*
+@media screen and (max-width:1500px) 
+{
+
+.seccion{
+    
+    margin: 0 auto;
+    width: 30%;
+    box-sizing: border-box;
+  
+}
+
+
+
+
+button {
+    margin-left: 20.11%;
+    background: #ffffff;
+    color: #000000;
+    margin-top:2%;
+    width: 60%;
+    height: 20%;
+    box-sizing: border-box;
+    border-radius: 40px;
+    
+}
+.imagen{
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-left: 5%;
+    
+}
+
+.input {
+    display: block;
+   width: 70%;
+    border-block-end: 2px solid #D6E1E4;
+  } 
+}
+@media screen and (max-width:1000px)
+{
+    .seccion{
+        
+        
+        width: 80%;
+        box-sizing: border-box;
+        
+    }
+    .logo{
+        margin: 0 auto;
+        
+    }
+    
+    .tomato{
+        
+        height: 168.506px; 
+        width: 238.425px; 
+       margin-bottom: 15%;
+    }
+    .seccion button{
+        width: 60%;
+        height: 43px;
+        box-sizing: border-box;
+        
+    }
+    p{
+        color: #ffffff;
+        font-size: 65%;
+        text-align: center;
+        padding-top: 10%;
+    }
+}
+
+
+
+*/

@@ -1,0 +1,135 @@
+.container{
+    width: 100%;
+    
+}
+ img{
+    width: 30px;
+    height: 30px;
+
+}
+#main-nav{
+    background-color:#000000;
+	color: #ffffff;
+    height: 60px;
+    box-sizing: border-box;
+    margin-bottom: 10%;
+}
+.nav ul li{
+    display: block;
+    list-style: none;
+    
+}
+nav ul li a{
+
+    color: #ffffff;
+
+}
+#login{
+    float: right;
+}
+input{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;    
+    
+    width: 25%;
+    text-align: left;        
+    font-size: 100%;  
+    color: #000000;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 10%;
+}
+.btn1{
+    background: #45DE54;
+    color: #ffffff;
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+    margin-top: 1%;
+    width: 70%;
+    height: 50px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    
+}
+.btn2{
+    background: #4267B2;
+    color: #ffffff;
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+    margin-top: 1%;
+    width: 70%;
+    height: 15%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    
+}
+.btn3{
+    background: #F92525;
+    color: #ffffff;
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+    margin-top: 1%;
+    width: 70%;
+    height: 15%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    
+}
+.btn4{
+    background: #38A1F3;
+    color: #ffffff;
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+    margin-top: 1%;
+    width: 70%;
+    height: 15%;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-bottom: 5%;
+    
+}
+p{
+    text-align: center;
+}
+footer{
+    background-color:#000000;
+    color: #ffffff;
+    width: 100%;
+    height: 60px;
+    box-sizing: border-box;
+}
+.fab{
+    display: inlinex;
+    margin: 1%;
+    max-width: 100%;
+}
+.fas{
+    display: inline;
+    margin: 1%;
+    
+    
+}
+.navbar{
+    background: #000000;
+    color: #ffffff;
+    width: 100%;
+   
+}
+.fotterOne{
+    display: block;
+    margin-left: 46%;
+ 
+    
+}
+.button1{
+background: #45DE54;
+color: #ffffff;
+}
+

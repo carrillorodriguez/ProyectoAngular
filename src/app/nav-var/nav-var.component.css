@@ -1,0 +1,41 @@
+img{
+    width: 70px;
+    height: 50px;
+}
+.nav-link{
+    margin: 0 auto;
+    color: #ffffff;
+}
+#main-nav{
+    display: flex;
+
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+    margin-top: 10%;
+}
+h2{
+    text-align: center;
+}
+.footer{
+    margin-top: 10%;
+    height: 107px;
+    background: #000000;
+}
+.fab {
+    display: inline;
+    margin: 5%;
+    color:#ffffff;
+}
+.fas{
+    display: inline;
+    color: #ffffff;
+} 
+.fff{
+    
+    width: 10%;
+    margin: 0 auto;
+
+}
